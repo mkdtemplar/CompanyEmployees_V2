@@ -1,0 +1,15 @@
+D:\C#\ASP_NET_CORE_WEB_API\CompanyEmployees_V2\Entities\bin\Debug\net5.0\Entities.deps.json
+D:\C#\ASP_NET_CORE_WEB_API\CompanyEmployees_V2\Entities\bin\Debug\net5.0\Entities.dll
+D:\C#\ASP_NET_CORE_WEB_API\CompanyEmployees_V2\Entities\bin\Debug\net5.0\ref\Entities.dll
+D:\C#\ASP_NET_CORE_WEB_API\CompanyEmployees_V2\Entities\bin\Debug\net5.0\Entities.pdb
+D:\C#\ASP_NET_CORE_WEB_API\CompanyEmployees_V2\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ASP_NET_CORE_WEB_API\CompanyEmployees_V2\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+D:\C#\ASP_NET_CORE_WEB_API\CompanyEmployees_V2\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+D:\C#\ASP_NET_CORE_WEB_API\CompanyEmployees_V2\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+D:\C#\ASP_NET_CORE_WEB_API\CompanyEmployees_V2\Entities\obj\Debug\net5.0\Entities.dll
+D:\C#\ASP_NET_CORE_WEB_API\CompanyEmployees_V2\Entities\obj\Debug\net5.0\ref\Entities.dll
+D:\C#\ASP_NET_CORE_WEB_API\CompanyEmployees_V2\Entities\obj\Debug\net5.0\Entities.pdb
+D:\C#\ASP_NET_CORE_WEB_API\CompanyEmployees_V2\Entities\bin\Debug\net5.0\Entities.runtimeconfig.json
+D:\C#\ASP_NET_CORE_WEB_API\CompanyEmployees_V2\Entities\bin\Debug\net5.0\Entities.runtimeconfig.dev.json
+D:\C#\ASP_NET_CORE_WEB_API\CompanyEmployees_V2\Entities\obj\Debug\net5.0\Entities.genruntimeconfig.cache
+D:\C#\ASP_NET_CORE_WEB_API\CompanyEmployees_V2\Entities\obj\Debug\net5.0\Entities.csproj.AssemblyReference.cache
